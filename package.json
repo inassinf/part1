@@ -1,0 +1,19 @@
+{
+  "name": "dia6",
+  "version": "1.0.0",
+  "description": "\"# part1\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inassinf/part1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inassinf/part1/issues"
+  },
+  "homepage": "https://github.com/inassinf/part1#readme"
+}
